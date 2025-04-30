@@ -66,13 +66,13 @@ assign A2=(bin[1]|bin[3]|bin[5]|bin[7]);
 endmodule
 ```
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![ebeb44ab-f4fa-4844-b35c-6e8e437604c7](https://github.com/user-attachments/assets/1aa8fb1c-82d5-412f-99a6-5c6a6a4af0ee)
+
+![7ae3a19a-0329-420c-868c-5cb4dd3a3a35](https://github.com/user-attachments/assets/4403c292-79a6-4bad-8e20-dd784db3cec6)
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![e8104ff0-78de-4ee9-a78d-69e0d847ee3f](https://github.com/user-attachments/assets/66509fa6-46e4-428e-a2b0-345a5a1e76bf)
-
+![97551b27-d8fa-4445-8b35-887088d452bf](https://github.com/user-attachments/assets/5666e795-999b-4e1f-9696-5cf6132837fc)
 **RESULTS**
 The program to encode 8 : 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables are verified
 
